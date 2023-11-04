@@ -1,5 +1,5 @@
 import React from "react";
-import "./header.css";
+import "../../App.css";
 
 const Header = () => {
   return (
@@ -15,6 +15,7 @@ const Header = () => {
           <img
             src="https://i.ibb.co/2drFwJ1/Healthy-Food-1-removebg-preview.png"
             alt="Healthy-Food-1-removebg-preview"
+            class="logo"
           />
         </div>
         <div class="d-flex gap-4">
