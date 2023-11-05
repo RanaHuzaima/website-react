@@ -67,6 +67,7 @@ iframe {
   margin-left: 20px;
   margin-top: 20px;
 }
+/* Product Section */
 .product-title {
   font-size: 50px;
 }
@@ -82,4 +83,10 @@ iframe {
 }
 .product-gap {
   gap: 5%;
+}
+/* Product Section End */
+/* discount section */
+.discount-section{
+  background: no-repeat center center url(https://img.freepik.com/premium-photo/plate-fried-chicken-with-copy-space_23-2148273063.jpg?w=1060);
+  background-size: cover;
 }
