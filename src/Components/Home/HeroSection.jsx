@@ -7,7 +7,7 @@ const HeroSection = () => {
         <div class="py-5">
           <h1 class="fw-bold mb-0 display-2">AMERICAN FOOD</h1>
           <p class="display-4 fw-normal">The Best Taste Food</p>
-          <div class="pp mb-4"></div>
+          <div class="line mb-4"></div>
           <p class="mb-5 fs-4">
             Lorem Ipsum available, but the majority have <br /> suffered
             alteration in some form, by injected <br /> humour, or randomised
