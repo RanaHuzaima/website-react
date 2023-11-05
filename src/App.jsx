@@ -4,6 +4,7 @@ import Navbar from "./Components/Navbar/Navbar";
 import HeroSection from "./Components/Home/HeroSection";
 import About from "./Components/About-Us-Section/About";
 import VideoSection from "./Components/Video-Section/VideoSection";
+import VideoSection2 from "./Components/Video-Section/VideoSection2";
 
 const App = () => {
   return (
@@ -13,6 +14,7 @@ const App = () => {
       <HeroSection />
       <About />
       <VideoSection />
+      <VideoSection2 />
     </>
   );
 };
