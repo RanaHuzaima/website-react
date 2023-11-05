@@ -6,6 +6,7 @@ import About from "./Components/About-Us-Section/About";
 import VideoSection from "./Components/Video-Section/VideoSection";
 import VideoSection2 from "./Components/Video-Section/VideoSection2";
 import Service from "./Components/Service-Section/Service";
+import Product from "./Components/Product-Section/Product";
 
 const App = () => {
   return (
@@ -17,6 +18,9 @@ const App = () => {
       <VideoSection />
       <VideoSection2 />
       <Service />
+      <Product />
+      <Product />
+      <Product />
     </>
   );
 };

@@ -67,3 +67,19 @@ iframe {
   margin-left: 20px;
   margin-top: 20px;
 }
+.product-title {
+  font-size: 50px;
+}
+.product-text {
+  font-size: 25px;
+}
+.product-img {
+  border: 5px dashed;
+}
+.product-img img {
+  width: 600px;
+  height: 300px;
+}
+.product-gap {
+  gap: 5%;
+}
