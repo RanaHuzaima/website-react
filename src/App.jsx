@@ -9,6 +9,7 @@ import Service from "./Components/Service-Section/Service";
 import Product from "./Components/Product-Section/Product";
 import Discount from "./Components/Discount-Section/Discount";
 import Pricing from "./Components/Pricing-Section/Pricing";
+import Card from "./Components/Card-Section/Card";
 
 const App = () => {
   return (
@@ -25,6 +26,7 @@ const App = () => {
       <Product />
       <Discount />
       <Pricing />
+      <Card />
     </>
   );
 };

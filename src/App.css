@@ -103,3 +103,11 @@ iframe {
 .discount-padding {
   padding-left: 5%;
 }
+.card-title {
+  background-color: #5F8B12;
+  width: 350px;
+  /* margin: -10px; */
+}
+.card-body {
+  background-color: #f1f1f1;
+}
