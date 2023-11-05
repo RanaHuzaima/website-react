@@ -1,9 +1,9 @@
 import React from "react";
 
-const Discount = () => {
+const Discount2 = () => {
   return (
     <>
-      <div class="discount-section text-color ">
+      <div class="d-flex discount-section2 text-color mt-5 ">
         <div class="py-5">
           <h1 class="mb-0">Special</h1>
           <h1 class="fw-bold mb-0 display-3">SALE 50% DISCOUNT</h1>
@@ -22,4 +22,4 @@ const Discount = () => {
   );
 };
 
-export default Discount;
+export default Discount2;

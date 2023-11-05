@@ -99,14 +99,18 @@ iframe {
   background: no-repeat center center
     url(https://img.freepik.com/premium-photo/plate-fried-chicken-with-copy-space_23-2148273063.jpg?w=1060);
   background-size: cover;
-}
-.discount-padding {
   padding-left: 5%;
 }
+.discount-section2 {
+  background: no-repeat center center
+    url(https://i.ibb.co/xss41Lt/plate-fried-chicken-with-copy-space-23-2148273063.jpg);
+  background-size: cover;
+  padding-left: 55%;
+}
+/* Card Section */
 .card-title {
-  background-color: #5F8B12;
+  background-color: #5f8b12;
   width: 350px;
-  /* margin: -10px; */
 }
 .card-body {
   background-color: #f1f1f1;
