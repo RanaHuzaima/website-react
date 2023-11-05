@@ -1,5 +1,5 @@
 @import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css");
-
+/* header Section */
 .bg-color {
   background-color: #3c6000;
 }
@@ -16,16 +16,24 @@ input::placeholder {
 .text-color {
   color: #3a6103;
 }
+.header-padding {
+  padding: 1% 5%;
+}
+/* header Section End */
+
+/* hero Section  */
 .herosection {
   background: no-repeat center center
     url(https://i.ibb.co/71RMKFq/vecteezy-banner-with-fast-food-copy-space-background-generative-ai-22148349-515.jpg);
   background-size: cover;
-  color: #3a6103;
+  padding-left: 5%;
 }
 .line {
   border-bottom: 4px solid;
   width: 28%;
 }
+/* hero Section End*/
+
 .line2 {
   position: absolute;
   width: 12%;
@@ -35,6 +43,7 @@ input::placeholder {
   /* margin-left: -20px;
   margin-top: -20px; */
 }
+/* Button */
 .btn-radius {
   background-color: #3c6000;
   border-radius: 23px 0%;
@@ -86,7 +95,11 @@ iframe {
 }
 /* Product Section End */
 /* discount section */
-.discount-section{
-  background: no-repeat center center url(https://img.freepik.com/premium-photo/plate-fried-chicken-with-copy-space_23-2148273063.jpg?w=1060);
+.discount-section {
+  background: no-repeat center center
+    url(https://img.freepik.com/premium-photo/plate-fried-chicken-with-copy-space_23-2148273063.jpg?w=1060);
   background-size: cover;
+}
+.discount-padding {
+  padding-left: 5%;
 }

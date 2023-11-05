@@ -4,7 +4,7 @@ import "../../App.css";
 const Header = () => {
   return (
     <>
-      <div class="d-flex align-items-center justify-content-between py-3 px-5 bg-color text-white">
+      <div class="d-flex align-items-center justify-content-between header-padding bg-color text-white">
         <div class="border-bottom">
           <input type="search" placeholder="Search here" class="text-white" />
           <span id="search">

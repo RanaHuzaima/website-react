@@ -3,7 +3,7 @@ import React from 'react'
 const Discount = () => {
   return (
     <>
-    <div class="discount-section px-5 py-5 text-color ">
+    <div class="discount-section discount-padding text-color ">
       <div class="py-5">
       <h1 class="mb-0">Special</h1>
         <h1 class="fw-bold mb-0 display-3">SALE 50% DISCOUNT</h1>
