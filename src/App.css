@@ -18,8 +18,25 @@ input::placeholder {
 }
 .herosection {
   background-image: url(https://i.ibb.co/71RMKFq/vecteezy-banner-with-fast-food-copy-space-background-generative-ai-22148349-515.jpg);
-  background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
   color: #1a5f00;
+}
+.pp {
+  border-bottom: 5px solid;
+  width: 28%;
+}
+.btn-radius {
+  background-color: #1a5f00;
+  border-radius: 23px 0%;
+  width: 200px;
+  border: none;
+}
+.btn-icon {
+  background-color: #1a5f00;
+  border-radius: 23px 0%;
+  width: 65px;
+  border: none;
+  text-align: center;
+  align-items: center;
 }
