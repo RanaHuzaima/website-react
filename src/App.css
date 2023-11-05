@@ -1,7 +1,7 @@
 @import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css");
 
 .bg-color {
-  background-color: #1a5f00;
+  background-color: #3c6000;
 }
 .logo {
   width: 50px;
@@ -14,26 +14,35 @@ input::placeholder {
   color: white;
 }
 .text-color {
-  color: #1a5f00;
+  color: #3a6103;
 }
 .herosection {
-  background-image: url(https://i.ibb.co/71RMKFq/vecteezy-banner-with-fast-food-copy-space-background-generative-ai-22148349-515.jpg);
-  background-repeat: no-repeat;
+  background: no-repeat center center
+    url(https://i.ibb.co/71RMKFq/vecteezy-banner-with-fast-food-copy-space-background-generative-ai-22148349-515.jpg);
   background-size: cover;
-  color: #1a5f00;
+  color: #3a6103;
 }
 .line {
   border-bottom: 4px solid;
   width: 28%;
 }
+.line2 {
+  position: absolute;
+  width: 12%;
+  height: 25%;
+  border-top: 5px solid #3d5e06;
+  border-left: 5px solid #3d5e06;
+  /* margin-left: -20px;
+  margin-top: -20px; */
+}
 .btn-radius {
-  background-color: #1a5f00;
+  background-color: #3c6000;
   border-radius: 23px 0%;
-  width: 200px;
+  width: 170px;
   border: none;
 }
 .btn-icon {
-  background-color: #1a5f00;
+  background-color: #3c6000;
   border-radius: 23px 0%;
   width: 65px;
   border: none;
@@ -42,4 +51,19 @@ input::placeholder {
 }
 .text-opacity {
   opacity: 0.3;
+}
+.gap-video {
+  gap: 12%;
+}
+.color {
+  width: 520px;
+  height: 390px;
+  position: absolute;
+  margin-left: 20px;
+  margin-top: 20px;
+  background-color: #195f0094;
+}
+iframe {
+  margin-left: 20px;
+  margin-top: 20px;
 }

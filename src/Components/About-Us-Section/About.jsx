@@ -10,7 +10,7 @@ const About = () => {
             ABOUT US
           </p>
         </div>
-        <p class="text-center fs-5">
+        <p class="text-center text-color fs-5">
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Rem tempore
           obcaecati <br /> id repudiandae animi dolor quo.
         </p>
