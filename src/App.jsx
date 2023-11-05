@@ -12,6 +12,7 @@ import Pricing from "./Components/Pricing-Section/Pricing";
 import Card from "./Components/Card-Section/Card";
 import Discount2 from "./Components/Discount-Section/Discount2";
 import Blog from "./Components/Blog-Section/Blog";
+import Footer from "./Components/Footer/Footer";
 
 const App = () => {
   return (
@@ -31,6 +32,7 @@ const App = () => {
       <Card />
       <Discount2 />
       <Blog />
+      <Footer/>
     </>
   );
 };

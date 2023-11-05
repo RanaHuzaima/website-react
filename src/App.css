@@ -130,3 +130,11 @@ iframe {
   background-color: #f1f1f1;
   margin: 0 70px;
 }
+/* Blog Box Section End */
+/* Footer Section */
+.footer-section {
+  background-color: #3c6000;
+}
+.footer-logo{
+  width: 100px;
+}
