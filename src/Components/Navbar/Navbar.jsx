@@ -4,7 +4,7 @@ import "../../App.css";
 const Navbar = () => {
   return (
     <>
-      <div className="d-flex align-items-center justify-content-center py-3 px-5 gap-4 fs-4">
+      <div className="d-flex align-items-center justify-content-center py-3 px-5 gap-4 fs-4 navbar">
         <a href="#" class="text-color text-decoration-none fw-medium">
           HOME
         </a>
