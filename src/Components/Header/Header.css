@@ -1,0 +1,10 @@
+.bg-color {
+  background-color: #3c6000;
+}
+input {
+  background-color: transparent;
+  border: none;
+}
+input::placeholder {
+  color: white;
+}
