@@ -3,7 +3,7 @@ import "./VideoSection.css";
 const Video_Section = () => {
   return (
     <>
-      <div class="container-fluid d-flex gap-video text-color main p-0 p-md-5">
+      <div class="container-fluid d-flex gap-video text-color main p-md-5">
         <div>
           <p class="display-3 fw-bold">
             Let food be the medicine medicine by thy food.

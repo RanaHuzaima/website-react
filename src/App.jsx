@@ -14,6 +14,26 @@ import Discount2 from "./Components/Discount-Section/Discount2";
 import Blog from "./Components/Blog-Section/Blog";
 import Footer from "./Components/Footer/Footer";
 
+const productData = [
+  {
+    id: "1",
+    title: "Peanut",
+    price: "$45",
+    img: "https://www.seekpng.com/png/full/11-113394_cooked-chicken-png-transparent-image-chicken-leg-piece.png",
+  },
+  {
+    id: "2",
+    title: "Peanut",
+    price: "$45",
+    img: "https://www.seekpng.com/png/full/11-113394_cooked-chicken-png-transparent-image-chicken-leg-piece.png",
+  },
+  {
+    id: "2",
+    title: "Peanut",
+    price: "$45",
+    img: "https://www.seekpng.com/png/full/11-113394_cooked-chicken-png-transparent-image-chicken-leg-piece.png",
+  },
+];
 const App = () => {
   return (
     <>
@@ -24,15 +44,15 @@ const App = () => {
       <VideoSection />
       <VideoSection2 />
       <Service />
-      <Product />
-      <Product />
-      <Product />
+      <Product product={productData} />
+      {/* <Product /> */}
+      {/* <Product /> */}
       <Discount />
       <Pricing />
       <Card />
       <Discount2 />
       <Blog />
-      <Footer/>
+      <Footer />
     </>
   );
 };

@@ -1,0 +1,33 @@
+.product-title {
+  font-size: 50px;
+}
+.product-text {
+  font-size: 25px;
+}
+.product-img {
+  border: 5px dashed;
+}
+.product-img img {
+  width: 600px;
+  height: 300px;
+}
+.product-gap {
+  gap: 9%;
+}
+@media screen and (max-width: 768px) {
+  .product-img {
+    margin: 15px 0;
+  }
+  .product-gap {
+    gap: 0;
+  }
+}
+@media screen and (max-width: 600px) {
+  .product-img {
+    margin: 15px 0;
+  }
+  .product-img img {
+    width: 383px;
+    height: 257px;
+  }
+}
