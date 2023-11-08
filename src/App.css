@@ -59,8 +59,7 @@ iframe {
 
 @media screen and (min-width: 1024px) {
   .card-width {
-    width: 25vw;
-    /* justify-content: space-between; */
+    width: 28vw;
   }
 }
 .card-body {
