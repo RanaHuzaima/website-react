@@ -3,27 +3,6 @@
 .text-color {
   color: #3a6103;
 }
-
-/* hero Section  */
-.herosection {
-  background: no-repeat center center
-    url(https://i.ibb.co/71RMKFq/vecteezy-banner-with-fast-food-copy-space-background-generative-ai-22148349-515.jpg);
-  background-size: cover;
-  padding-left: 5%;
-}
-.line {
-  border-bottom: 4px solid;
-  width: 28%;
-}
-/* hero Section End*/
-
-.line2 {
-  position: absolute;
-  width: 12%;
-  height: 25%;
-  border-top: 5px solid #3d5e06;
-  border-left: 5px solid #3d5e06;
-}
 /* icon */
 i {
   cursor: pointer;

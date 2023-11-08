@@ -7,7 +7,7 @@ const Header = () => {
     <>
       {/* Desktop Header Start */}
       <nav class="navbar navbar-expand-lg bg-color d-none d-sm-block">
-        <div class="container-fluid">
+        <div class="container-fluid px-5">
           <div className="d-none d-sm-none d-md-block">
             <div className="border-bottom">
               <input

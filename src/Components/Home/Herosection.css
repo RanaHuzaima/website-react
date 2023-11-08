@@ -1,0 +1,11 @@
+/* hero Section  */
+.herosection {
+  background: no-repeat center center
+    url(https://i.ibb.co/71RMKFq/vecteezy-banner-with-fast-food-copy-space-background-generative-ai-22148349-515.jpg);
+  background-size: cover;
+}
+.line {
+  border-bottom: 4px solid;
+  width: 32%;
+}
+/* hero Section End*/

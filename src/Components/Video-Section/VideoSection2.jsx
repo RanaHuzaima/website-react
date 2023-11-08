@@ -3,7 +3,7 @@ import React from "react";
 const VideoSection2 = () => {
   return (
     <>
-      <div class="d-flex align-items-center justify-content-center gap-video text-color mt-5 ">
+      <div class="d-flex align-items-center justify-content-center gap-video text-color mt-5 flex-wrap ">
         <div>
           <div class="line2"></div>
           <div class="color"></div>

@@ -3,7 +3,7 @@ import React from "react";
 const Product = () => {
   return (
     <>
-      <div class="d-flex align-items-center justify-content-center product-gap text-color mb-5 ">
+      <div class="d-flex align-items-center justify-content-center product-gap text-color mb-5 flex-wrap ">
         <div>
           <div class="d-flex justify-content-between fw-bold product-title">
             <div>Peanut butter</div>
