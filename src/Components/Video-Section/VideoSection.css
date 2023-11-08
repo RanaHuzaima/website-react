@@ -9,13 +9,32 @@ iframe {
   width: 520px;
   height: 390px;
 }
+@media screen and (max-width: 768px) {
+  iframe {
+    width: 600px;
+    height: 400px;
+    /* flex-direction: column; */
+  }
+  .main {
+    flex-wrap: wrap;
+  }
+
+  .color {
+    width: 600px;
+    height: 400px;
+  }
+}
 @media screen and (max-width: 600px) {
   iframe {
     width: 400px;
     height: 300px;
+    /* flex-direction: column; */
   }
   .main {
     flex-wrap: wrap;
+  }
+  .inner {
+    margin-bottom: 20px;
   }
   .color {
     width: 400px;
