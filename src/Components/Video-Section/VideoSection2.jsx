@@ -4,7 +4,7 @@ import "./VideoSection.css";
 const VideoSection2 = () => {
   return (
     <>
-      <div class="container-fluid d-flex gap-video text-color p-0 p-md-5 mt-3 main">
+      <div class="container-fluid d-flex gap-video text-color p-0 p-md-5 main">
         <div class="position-relative">
           <div class="video-border"></div>
           <div class="color d-flex justify-content-end"></div>

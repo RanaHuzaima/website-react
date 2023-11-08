@@ -13,7 +13,6 @@ iframe {
   iframe {
     width: 600px;
     height: 400px;
-    /* flex-direction: column; */
   }
   .main {
     flex-wrap: wrap;
@@ -22,6 +21,9 @@ iframe {
   .color {
     width: 600px;
     height: 400px;
+  }
+  .video-div {
+    margin-top: 20px;
   }
 }
 @media screen and (max-width: 600px) {
