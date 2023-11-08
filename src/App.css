@@ -53,9 +53,15 @@ iframe {
   background-size: cover;
 }
 /* Card Section */
-.card-title {
+.bg-card {
   background-color: #5f8b12;
-  width: 350px;
+}
+
+@media screen and (min-width: 1024px) {
+  .card-width {
+    width: 25vw;
+    /* justify-content: space-between; */
+  }
 }
 .card-body {
   background-color: #f1f1f1;

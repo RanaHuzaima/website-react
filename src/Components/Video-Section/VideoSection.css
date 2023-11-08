@@ -28,7 +28,7 @@ iframe {
 }
 @media screen and (max-width: 600px) {
   iframe {
-    width: 400px;
+    width: 384px;
     height: 300px;
     /* flex-direction: column; */
   }
@@ -39,7 +39,7 @@ iframe {
     margin-bottom: 20px;
   }
   .color {
-    width: 400px;
+    width: 384px;
     height: 300px;
   }
 }

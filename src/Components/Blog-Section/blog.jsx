@@ -17,7 +17,7 @@ const Blog = () => {
         </p>
       </div>
       <div className="container-fluid px-5 d-flex flex-wrap justify-content-between mt-5 ">
-        <div className="blog-box"></div>
+        <div className="blog-box mb-5"></div>
         <div className="blog-box1 p-4 text-color mb-5">
           <p className="fs-3 fw-bold">Eat food. Not too much mostly plants.</p>
           <p className="fs-5">
