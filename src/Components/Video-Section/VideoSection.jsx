@@ -3,30 +3,30 @@ import "./VideoSection.css";
 const Video_Section = () => {
   return (
     <>
-      <div class="container-fluid d-flex gap-video text-color main p-md-5">
+      <div className="container-fluid d-flex gap-video text-color main p-md-5">
         <div>
-          <p class="display-3 fw-bold">
+          <p className="display-3 fw-bold">
             Let food be the medicine medicine by thy food.
           </p>
-          <p class="fs-4">
+          <p className="fs-4">
             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliiss
             fafkshd impedit atq Alias impedit atque et corrupti optio
             consequatur ullam impedit atq Alias impedit atque et corrupti optio
             consequatur ullam impedit atq Aliiss fafkshd dolores quos nobis?
             Maxime.
           </p>
-          <p class="fs-4">
+          <p className="fs-4">
             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliiss
             fafkshd impedit atq Alias impedit atque et corrupti optio.
           </p>
-          <div class="d-flex gap-1">
-            <button class="p-3 text-white btn-radius ">READ MORE</button>
-            <i class="bi bi-arrow-left fs-3 text-white btn-icon d-flex align-items-center justify-content-center"></i>
+          <div className="d-flex gap-1">
+            <button className="p-3 text-white btn-radius ">READ MORE</button>
+            <i className="bi bi-arrow-left fs-3 text-white btn-icon d-flex align-items-center justify-content-center"></i>
           </div>
         </div>
-        <div class="position-relative video-div">
-          <div class="video-border"></div>
-          <div class="color d-flex justify-content-end"></div>
+        <div className="position-relative video-div">
+          <div className="video-border"></div>
+          <div className="color d-flex justify-content-end"></div>
           <iframe
             src="https://www.youtube-nocookie.com/embed/kMnaNYZTIS4?si=I1za6VrkrcZ9nQhw&amp;controls=0"
             title="YouTube video player"

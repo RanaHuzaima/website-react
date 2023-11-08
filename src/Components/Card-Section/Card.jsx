@@ -4,7 +4,7 @@ const Card = () => {
   return (
     <>
       <div className="container-fluid px-5 main-card justify-content-md-between d-flex flex-row flex-wrap">
-        <div className="d-flex flex-column  mb-3">
+        <div className="d-flex flex-column  mb-5">
           <div className="card-title text-center text-white p-4 fs-1">
             <p className="fs-1 lh-1">Basic</p>
             <p className="fw-bold lh-1">$50</p>
@@ -20,7 +20,7 @@ const Card = () => {
             </div>
           </div>
         </div>
-        <div className="d-flex flex-column mb-3">
+        <div className="d-flex flex-column mb-5">
           <div className="card-title text-center text-white p-4 fs-1">
             <p className="fs-1 lh-1">Basic</p>
             <p className="fw-bold lh-1">$50</p>

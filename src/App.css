@@ -62,22 +62,6 @@ iframe {
 .card-body {
   background-color: #f1f1f1;
 }
-/* Blog Box */
-.blog-box {
-  background: no-repeat center center
-    url(https://i.ibb.co/xss41Lt/plate-fried-chicken-with-copy-space-23-2148273063.jpg);
-  width: 500px;
-  height: 350px;
-  background-color: #195f0094;
-  margin: 0 70px;
-}
-.blog-box1 {
-  width: 500px;
-  height: 350px;
-  background-color: #f1f1f1;
-  margin: 0 70px;
-}
-/* Blog Box Section End */
 /* Footer Section */
 .footer-section {
   background-color: #3c6000;
