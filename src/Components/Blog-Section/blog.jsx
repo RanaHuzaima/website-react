@@ -4,7 +4,7 @@ import "./Blog.css";
 const Blog = () => {
   return (
     <>
-      <div className="container-fluid d-flex align-items-center justify-content-center px-5 flex-column">
+      <div className="container-fluid d-flex align-items-center justify-content-center px-5 flex-column mt-4">
         <div className="d-flex align-items-center justify-content-center">
           <p className="display-1 fw-medium text-color text-opacity">BLOG</p>
           <p className="position-absolute display-6 fw-bold text-color ">

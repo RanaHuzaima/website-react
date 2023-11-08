@@ -3,7 +3,7 @@ import React from "react";
 const Pricing = () => {
   return (
     <>
-      <div className="d-flex align-items-center justify-content-center p-0 p-md-5 flex-column">
+      <div className="d-flex align-items-center justify-content-center p-0 p-md-5 mt-4 flex-column">
         <div className="d-flex align-items-center justify-content-center">
           <p className="display-1 fw-medium text-color text-opacity">PRICING</p>
           <p className="position-absolute display-6 fw-bold text-color ">PRICING</p>
